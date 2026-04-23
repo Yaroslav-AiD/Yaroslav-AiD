@@ -1,16 +1,14 @@
-## Hi there 👋
+## Yaroslav — Python Automation & Parsing
 
-<!--
-**Yaroslav-AiD/Yaroslav-AiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Автоматизирую рутину, парсю данные, работаю с API.
 
-Here are some ideas to get you started:
+**Стек:** Python, Selenium, FastAPI, Pandas, SQLite, Aiogram.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Что я делаю:**
+- Собираю данные с маркетплейсов и сайтов
+- Пишу API-сервисы и Telegram-ботов
+- Автоматизирую отчёты в Excel
+
+**[→ Портфолио проектов](https://github.com/Yaroslav-AiD/python-automation-portfolio)**
+
+**Контакты:** [Email](mailto:diai_9@proton.me)
