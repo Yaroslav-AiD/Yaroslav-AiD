@@ -15,3 +15,5 @@
 ### Контакты
 
 [Email](mailto:diai_9@proton.me) · [Telegram](https://t.me/redd4400) · [GitHub](https://github.com/Yaroslav-AiD)
+
+https://yaroslav-aid.github.io
